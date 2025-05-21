@@ -1,5 +1,4 @@
 # 🌍 Terraform Notes – Part 1  
-**Based on KPLABS HashiCorp Certified Terraform Associate 2025**
 
 ---
 
