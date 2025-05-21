@@ -33,14 +33,6 @@ Example: AWS Hardening required 100–250+ pages of steps and took 2–3 days pe
 
 ---
 
-## 📚 About the Course
-
-- Certification-specific content aligned with **Terraform Associate 2025** exam.
-- Starts from **scratch** and gradually moves to **advanced** concepts.
-- Uses **AWS** as the primary platform for demonstrations.
-
----
-
 ## 🧪 What Is Infrastructure as Code (IaC)?
 
 IaC means managing infrastructure through **code** instead of manual configuration.
